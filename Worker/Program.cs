@@ -19,7 +19,7 @@ namespace Worker
 
             worker[0] = new FixedPayment("Путин Владимир", 900000);
             worker[1] = new FixedPayment("Медведев Дмитрий", 500000);
-            worker[2] = new HourlyPayment("Пупкин Вася", 50);
+            worker[2] = new HourlyPayment("Мишустин Михаил", 50);
 
             for (int i=0; i < 3; i++)
                 Console.WriteLine(worker[i]);
