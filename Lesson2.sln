@@ -5,9 +5,15 @@ VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker", "Worker\Worker.csproj", "{11C47DC3-84B2-4AD5-8169-84AD49A7516E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson3", "Lesson3", "{2914DAB8-55AB-4224-8DFB-1B8247EEBF70}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "не исправлял - Lesson3", "не исправлял - Lesson3", "{2914DAB8-55AB-4224-8DFB-1B8247EEBF70}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidGame", "..\GeekBrains-CSharp-Level-2-Lesson-3-master\AsteroidGame\AsteroidGame.csproj", "{54B79DA9-3D4B-4EBC-A6A4-D9E24862D2FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson4", "Lesson4", "{7D972A94-086A-4A48-BEC6-7DFC1F87B376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Collection", "..\GB-CSharp-Level2-Lesson_4-master\2_Collection\2_Collection.csproj", "{50864123-DF8A-438E-8BE9-7C130FE6ACD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_OrderBy", "..\GB-CSharp-Level2-Lesson_4-master\3_OrderBy\3_OrderBy.csproj", "{7A21AEF7-8122-40F7-A0E3-E6815A34BAF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,12 +37,30 @@ Global
 		{54B79DA9-3D4B-4EBC-A6A4-D9E24862D2FC}.Release|Any CPU.ActiveCfg = Release|x86
 		{54B79DA9-3D4B-4EBC-A6A4-D9E24862D2FC}.Release|x86.ActiveCfg = Release|x86
 		{54B79DA9-3D4B-4EBC-A6A4-D9E24862D2FC}.Release|x86.Build.0 = Release|x86
+		{50864123-DF8A-438E-8BE9-7C130FE6ACD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50864123-DF8A-438E-8BE9-7C130FE6ACD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50864123-DF8A-438E-8BE9-7C130FE6ACD9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{50864123-DF8A-438E-8BE9-7C130FE6ACD9}.Debug|x86.Build.0 = Debug|Any CPU
+		{50864123-DF8A-438E-8BE9-7C130FE6ACD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50864123-DF8A-438E-8BE9-7C130FE6ACD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50864123-DF8A-438E-8BE9-7C130FE6ACD9}.Release|x86.ActiveCfg = Release|Any CPU
+		{50864123-DF8A-438E-8BE9-7C130FE6ACD9}.Release|x86.Build.0 = Release|Any CPU
+		{7A21AEF7-8122-40F7-A0E3-E6815A34BAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A21AEF7-8122-40F7-A0E3-E6815A34BAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A21AEF7-8122-40F7-A0E3-E6815A34BAF5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7A21AEF7-8122-40F7-A0E3-E6815A34BAF5}.Debug|x86.Build.0 = Debug|Any CPU
+		{7A21AEF7-8122-40F7-A0E3-E6815A34BAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A21AEF7-8122-40F7-A0E3-E6815A34BAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A21AEF7-8122-40F7-A0E3-E6815A34BAF5}.Release|x86.ActiveCfg = Release|Any CPU
+		{7A21AEF7-8122-40F7-A0E3-E6815A34BAF5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{54B79DA9-3D4B-4EBC-A6A4-D9E24862D2FC} = {2914DAB8-55AB-4224-8DFB-1B8247EEBF70}
+		{50864123-DF8A-438E-8BE9-7C130FE6ACD9} = {7D972A94-086A-4A48-BEC6-7DFC1F87B376}
+		{7A21AEF7-8122-40F7-A0E3-E6815A34BAF5} = {7D972A94-086A-4A48-BEC6-7DFC1F87B376}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {546FD877-F65C-4540-B675-BEBC72632DF7}
